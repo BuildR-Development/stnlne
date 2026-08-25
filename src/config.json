@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "stnln3",
+    "version": "0.7.13",
+    "codename": "echo-fall",
+    "environment": "development"
+  },
+  "system": {
+    "debug": true,
+    "verboseLogging": false,
+    "autoRestart": true,
+    "maxWorkers": 4,
+    "timeout": 7500
+  },
+  "network": {
+    "host": "127.0.0.1",
+    "port": 48192,
+    "protocol": "tcp",
+    "reconnect": {
+      "enabled": true,
+      "attempts": 5,
+      "delay": 1500
+    }
+  },
+  "features": {
+    "experimentalAudio": true,
+    "spectrogramDecoder": true,
+    "hiddenMode": false,
+    "telemetry": false
+  },
+  "storage": {
+    "directory": "./data",
+    "cacheDirectory": "./cache",
+    "maxCacheSizeMB": 512,
+    "compression": "gzip"
+  },
+  "logging": {
+    "level": "info",
+    "file": "./logs/runtime.log",
+    "timestampFormat": "YYYY-MM-DD HH:mm:ss"
+  }
+}
