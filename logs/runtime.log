@@ -1,0 +1,43 @@
+2026-08-25 10:14:02 [INFO] Starting application...
+2026-08-25 10:14:02 [INFO] Loading configuration from config.json
+2026-08-25 10:14:02 [INFO] Configuration loaded successfully
+2026-08-25 10:14:03 [INFO] Initializing filesystem
+2026-08-25 10:14:03 [INFO] Cache directory verified
+2026-08-25 10:14:03 [INFO] Loading modules...
+2026-08-25 10:14:03 [INFO] Module: AudioSubsystem ........ OK
+2026-08-25 10:14:03 [INFO] Module: NetworkInterface ..... OK
+2026-08-25 10:14:04 [INFO] Module: SpectrogramDecoder .... OK
+2026-08-25 10:14:04 [INFO] Module: Telemetry ............. DISABLED
+2026-08-25 10:14:04 [INFO] Performing startup checks
+2026-08-25 10:14:04 [INFO] Memory check ................ OK
+2026-08-25 10:14:04 [INFO] Cache integrity ............. OK
+2026-08-25 10:14:05 [INFO] Checking local resources
+2026-08-25 10:14:05 [INFO] 18 resources indexed
+2026-08-25 10:14:05 [INFO] 0 corrupted resources
+2026-08-25 10:14:05 [INFO] Preparing runtime environment
+2026-08-25 10:14:06 [INFO] Runtime environment ready
+2026-08-25 10:14:06 [INFO] Listening on 127.0.0.1:48192
+2026-08-25 10:14:06 [DEBUG] Using EncpKy: ‮kzBhcDgtTz‬‬
+2026-08-25 10:14:06 [INFO] Application started successfully
+
+2026-08-25 10:14:06 [ERROR] Q29uZ3JhdHMgdGhhdCB5b3UgZm91bmQgdGhpcywgeW91IGFyZW50IGZpbmlzaGVkIHF1aXRlIHlldCB0aG8gaGVoZTogWWogenZ3IGtnb3ggdnltISBQciB1ciBhYSBjdGNzIHFodXdrIG1haGMgaG8gc3F4dHp4OiBYeW4gaGJhdiBvZiBsbiBtbnBzIGsgaW9ndGt2eCBldnBoIG9tIHp0aXIsIGogbXF4dHcgbWdvIHJmanRoeiwgYm1yOiBabnB3LiBucnI=
+
+2026-08-25 10:14:31 [INFO] Background task completed
+2026-08-25 10:15:02 [INFO] Cache maintenance started
+2026-08-25 10:15:03 [INFO] Cache maintenance completed
+2026-08-25 10:16:17 [WARN] Unrecognized input received
+2026-08-25 10:16:17 [INFO] Input ignored
+2026-08-25 10:17:44 [INFO] Background task completed
+2026-08-25 10:18:09 [INFO] Resource index unchanged
+2026-08-25 10:19:52 [INFO] Waiting for input
+
+2026-08-25 10:20:00 [DEBUG] Console interface initialized
+2026-08-25 10:20:00 [DEBUG] Command buffer allocated
+2026-08-25 10:20:00 [DEBUG] Input channel ready
+2026-08-25 10:20:00 [DEBUG] Accepted commands: status, reload, clear
+2026-08-25 10:20:00 [DEBUG] Unknown commands will be ignored
+
+2026-08-25 10:21:13 [INFO] Background task completed
+2026-08-25 10:22:48 [INFO] No pending operations
+2026-08-25 10:23:19 [INFO] Runtime status: NORMAL
+2026-08-25 10:24:01 [INFO] Waiting for input
